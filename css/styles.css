@@ -1,0 +1,11 @@
+.container{
+    background-color: #ccc;
+    height: 200px;
+}
+
+.item{
+    background-color: #ccc;
+    color: #fff;
+    padding: 20px;
+    margin: 5px;
+}
